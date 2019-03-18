@@ -32,6 +32,8 @@ here is a demo for cloud login: [https://bpi-r2.morequick.cn:84](https://bpi-r2.
 
 username/passwd: demo/demo
 
+![image](https://user-images.githubusercontent.com/16576843/54505845-b6000780-4974-11e9-80e4-dce4a262c815.png)
+
 ### Default parameters
 
 1. The default username/password for webadmin & ssh login are admin/admin
@@ -68,6 +70,8 @@ MD5 sum: 09b58f050166ed5d09803e1de56d7890
 2. Prepare a TF card with a capacity greater than 256M, and a USB card reader
 
 3.  We use [Balena Etcher](https://www.balena.io/etcher/) to flash the img to tfcard
+
+   ![image](https://user-images.githubusercontent.com/16576843/54505758-3bcf8300-4974-11e9-9733-b07523993d88.png)
 
 4. Put the tfcard into BPI-R2, hold the power key for at least 6 seconds
 

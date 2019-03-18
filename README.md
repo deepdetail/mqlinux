@@ -77,4 +77,6 @@ MD5 sum: 842f6e8d0b0e75a89dfe24b9a2e23476
 
 5. Wait about 1 minute or so the system will start up. then Connect the network cable to the second network port.
 
+   ![IMG_3044](https://user-images.githubusercontent.com/16576843/54506419-50614a80-4977-11e9-9de0-3322c382bbfd.JPG)
+
 6. visit the webUI for MQLinux, the URL is http://192.168.1.254/, username/passwd is both admin

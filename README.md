@@ -72,6 +72,15 @@ MD5 sum: 842f6e8d0b0e75a89dfe24b9a2e23476
 3.  We use [Balena Etcher](https://www.balena.io/etcher/) to flash the img to tfcard
 
    ![image](https://user-images.githubusercontent.com/16576843/54505758-3bcf8300-4974-11e9-9733-b07523993d88.png)
+   
+   For developer of Linux/macOS, u can just use dd command (be careful):
+
+   macOS:
+      sudo dd if=xxx.img of=/dev/<disk name, eg: sda,sdb,...> bs=1M
+
+   Linux:
+      sudo dd if=xxx.img of=/dev/<disk_id,eg: disk2,disk3,...> bs=1m
+
 
 4. Put the tfcard into BPI-R2, hold the power key for at least 6 seconds
 

@@ -61,7 +61,7 @@ my email is emufly@gmail.com
 
 Google drive:https://drive.google.com/file/d/1Ws2IUiCGSKKQ2dCM5XJBV-pog-hk17PM/view?usp=sharing
 
-MD5 sum: 09b58f050166ed5d09803e1de56d7890
+MD5 sum: 842f6e8d0b0e75a89dfe24b9a2e23476
 
 ### Installation
 

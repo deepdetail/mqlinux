@@ -1,6 +1,12 @@
 ## MQLinux - MoreQucik Linux OS for Router/Server
 
-MQLinux ARM 19.02beta1 Router for BPI-R2
+MQLinux ARM-Router for BPI-R2
+
+### ChangeLog
+
+```
+2019.03.18 frist release 19.02beta1
+```
 
 ### Release notes
 
@@ -61,7 +67,7 @@ my email is emufly@gmail.com
 
 Google drive:https://drive.google.com/file/d/1Ws2IUiCGSKKQ2dCM5XJBV-pog-hk17PM/view?usp=sharing
 
-MD5 sum: 842f6e8d0b0e75a89dfe24b9a2e23476
+MD5 sum: 8703f586205f8cb8809518b50af9d8ba
 
 ### Installation
 

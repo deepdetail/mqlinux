@@ -5,12 +5,15 @@ MQLinux ARM-Router for BPI-R2
 ### ChangeLog
 
 ```
-2019.03.18 frist release 19.02beta1
+2019.03.22 19.02 Beta2
+* many bugfix for UI & language error in translation
+
+2019.03.18 frist release 19.02 Beta1
 ```
 
 ### Release notes
 
-This is the first beta release , this firmware is totally free for personal use. 
+This is just the beta release, this firmware is totally free for personal use. 
 
 Main  features:
 
@@ -31,6 +34,7 @@ Main  features:
 * IP-MAC Locking
 * Port Mapping/DMZ/UPnP
 * Diagnose Tools
+* LVM/RAID support
 ...
 
 
@@ -65,9 +69,11 @@ my email is emufly@gmail.com
 
 ### Download Image Link
 
+Updated at 2019/03/22 19.02 Beta2
+
 Google drive:https://drive.google.com/file/d/1Ws2IUiCGSKKQ2dCM5XJBV-pog-hk17PM/view?usp=sharing
 
-MD5 sum: 8703f586205f8cb8809518b50af9d8ba
+MD5 sum: b482ace352321181db1e7e83cb9de1fb
 
 ### Installation
 

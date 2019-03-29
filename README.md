@@ -5,6 +5,10 @@ MQLinux ARM-Router for BPI-R2
 ### ChangeLog
 
 ```
+2019.03.39 19.02 Beta3
+Update: Improve cloud management docking, support upgrade, restart, turn/off function
+Update: Fix lang error for some pages
+
 2019.03.22 19.02 Beta2
 * many bugfix for UI & language error in translation
 
@@ -69,11 +73,11 @@ my email is emufly@gmail.com
 
 ### Download Image Link
 
-Updated at 2019/03/22 19.02 Beta2
+Updated at 2019/03/29 19.02 Beta3
 
 Google drive:https://drive.google.com/file/d/1Ws2IUiCGSKKQ2dCM5XJBV-pog-hk17PM/view?usp=sharing
 
-MD5 sum: b482ace352321181db1e7e83cb9de1fb
+MD5 sum: dad877d765242b70266ecffa60fb9148
 
 ### Installation
 

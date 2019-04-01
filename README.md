@@ -80,17 +80,17 @@ via [GitHub](https://github.com/deepdetail/mqlinux/tree/master/files) or Google 
 
 Updated at 2019/04/01 19.02 Beta4
 
-For BPI-R2:
+>> For BPI-R2:
 
-	Google drive: https://drive.google.com/file/d/1NLUZQG7APUORvb-TUDNUtqYYR6cU92mf/view?usp=sharing
+Google drive: https://drive.google.com/file/d/1NLUZQG7APUORvb-TUDNUtqYYR6cU92mf/view?usp=sharing
 
-	MD5 sum: 699583d11f7243420180dea5cd16ff32
+MD5 sum: 699583d11f7243420180dea5cd16ff32
 
-For BPI-R1:
+>> For BPI-R1:
 
-	Google drive: https://drive.google.com/file/d/1TkvPcEZ4avxyOT7sFVo1xJOzMGTi8nKl/view?usp=sharing
+Google drive: https://drive.google.com/file/d/1TkvPcEZ4avxyOT7sFVo1xJOzMGTi8nKl/view?usp=sharing
 
-	MD5 sum: 9e44fd122be1e92bd08d600dd0b8483e
+MD5 sum: 9e44fd122be1e92bd08d600dd0b8483e
 	
 
 ### Installation

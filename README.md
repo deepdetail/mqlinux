@@ -1,6 +1,6 @@
 ## MQLinux - MoreQucik Linux OS for Router/Server
 
-MQLinux ARM-Router for BPI-R2
+MQLinux ARM-Router Firmware for BPI-R1 & BPI-R2 Produced by [http://www.banana-pi.org/](http://www.banana-pi.org)
 
 ### ChangeLog
 
@@ -55,7 +55,7 @@ username/passwd: demo/demo
 
 1. The default username/password for webadmin & ssh login are admin/admin
 
-2. The default port defination is WAN-LAN-LAN-LAN-LAN
+2. The default port defination for BPI-R2 is WAN-LAN-LAN-LAN-LAN,  BPI-R1 is LAN-LAN-LAN-LAN-WAN
 
 3. The default IP address for LAN is 192.168.1.254
 
@@ -76,11 +76,22 @@ my email is emufly@gmail.com
 
 ### Download Image Link
 
+via [GitHub](https://github.com/deepdetail/mqlinux/tree/master/files) or Google Drive bellow:
+
 Updated at 2019/04/01 19.02 Beta4
 
-Google drive: https://drive.google.com/file/d/1NLUZQG7APUORvb-TUDNUtqYYR6cU92mf/view?usp=sharing
+For BPI-R2:
 
-MD5 sum: 699583d11f7243420180dea5cd16ff32
+	Google drive: https://drive.google.com/file/d/1NLUZQG7APUORvb-TUDNUtqYYR6cU92mf/view?usp=sharing
+
+	MD5 sum: 699583d11f7243420180dea5cd16ff32
+
+For BPI-R1:
+
+	Google drive: https://drive.google.com/file/d/1TkvPcEZ4avxyOT7sFVo1xJOzMGTi8nKl/view?usp=sharing
+
+	MD5 sum: 9e44fd122be1e92bd08d600dd0b8483e
+	
 
 ### Installation
 
@@ -110,6 +121,8 @@ MD5 sum: 699583d11f7243420180dea5cd16ff32
 6. visit the webUI for MQLinux, the URL is http://192.168.1.254/, username/passwd is both admin
 
 ### Burn firmware into built-in Flash
+
+   Note: support BPI-R2 only, BPI-R1 do not have built-in storage
 
    webUI -> System -> Disk Storage, Burn Firmware 
    

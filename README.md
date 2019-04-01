@@ -5,7 +5,10 @@ MQLinux ARM-Router for BPI-R2
 ### ChangeLog
 
 ```
-2019.03.39 19.02 Beta3
+2019.04.01 19.02 Beta4
+Update: Add mmc flash tools, One-click burning mmc flash in web (System->Disk Stoarge -> Burn Flash)
+
+2019.03.29 19.02 Beta3
 Update: Improve cloud management docking, support upgrade, restart, turn/off function
 Update: Fix lang error for some pages
 
@@ -56,7 +59,7 @@ username/passwd: demo/demo
 
 3. The default IP address for LAN is 192.168.1.254
 
-4. The console login for HDMI/TTL has no password
+4. The console login for TTL has no password
 
 
 ### TODO
@@ -65,7 +68,7 @@ username/passwd: demo/demo
    
 2. External USB, 4G module support
    
-3. flash image to internal eMMC storage
+3. flash image to internal eMMC storage (Done at 2019/04/01)
 
 Any advice and suggestions will be greatly appreciated,  Always happy to hear from your feedback. 
 
@@ -73,11 +76,11 @@ my email is emufly@gmail.com
 
 ### Download Image Link
 
-Updated at 2019/03/29 19.02 Beta3
+Updated at 2019/04/01 19.02 Beta4
 
-Google drive:https://drive.google.com/file/d/1Ws2IUiCGSKKQ2dCM5XJBV-pog-hk17PM/view?usp=sharing
+Google drive: https://drive.google.com/file/d/1NLUZQG7APUORvb-TUDNUtqYYR6cU92mf/view?usp=sharing
 
-MD5 sum: dad877d765242b70266ecffa60fb9148
+MD5 sum: 699583d11f7243420180dea5cd16ff32
 
 ### Installation
 
@@ -105,3 +108,13 @@ MD5 sum: dad877d765242b70266ecffa60fb9148
    ![IMG_3044](https://user-images.githubusercontent.com/16576843/54506419-50614a80-4977-11e9-9de0-3322c382bbfd.JPG)
 
 6. visit the webUI for MQLinux, the URL is http://192.168.1.254/, username/passwd is both admin
+
+### Burn firmware into built-in Flash
+
+   webUI -> System -> Disk Storage, Burn Firmware 
+   
+   ![burnfm](https://user-images.githubusercontent.com/16576843/55299540-00e64880-5466-11e9-980f-ba7ea5376c65.png)
+   
+   ![burnfm_ok](https://user-images.githubusercontent.com/16576843/55299585-2bd09c80-5466-11e9-836b-fd818e181957.png)
+
+After the operation is successful, shutdown, unplug the TF card, and then power on again.

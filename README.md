@@ -5,7 +5,12 @@ MQLinux ARM-Router固件
 适用硬件：
 
 * [香蕉派](http://www.banana-pi.org) BPI-R1 及 BPI-R2
+
+   ![IMG_3044](https://user-images.githubusercontent.com/16576843/54506419-50614a80-4977-11e9-9de0-3322c382bbfd.JPG)
+   
 * [friendlyarm](https://www.friendlyarm.com/) Nano Pi R2S
+
+   ![D8DD43C3C7778F5EDAF36799F10AE55C](https://user-images.githubusercontent.com/16576843/80932067-3ccda900-8df0-11ea-9484-8ec7e0f01f39.png)
 
 ### 更新日志
 
@@ -108,8 +113,6 @@ Update: 修复许多UI及翻译中的语言错误
 4. 将tf卡插入BPI-R2，按住电源键至少6秒钟
 
 5. 等待大约1分钟左右，系统将启动。然后将网络电缆连接到第二个网络端口。
-
-   ![IMG_3044](https://user-images.githubusercontent.com/16576843/54506419-50614a80-4977-11e9-9de0-3322c382bbfd.JPG)
 
 6. 访问webUI for MQLinux，URL为 http://192.168.1.254/, 默认账号和密码均为 admin
 

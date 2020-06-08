@@ -15,6 +15,9 @@ MQLinux ARM-Router固件
 ### 更新日志
 
 ```
+2020.06.08 V1.2.2 Stable
+更新日志请见 https://docs.mqrouter.com/changelog.html
+
 2020.04.24 V1.2 Stable
 Update: 大量功能改进及Bug修复
 Update: 加入 Nano Pi R2S 支持（将img镜像写入TF卡，插卡即可启动）

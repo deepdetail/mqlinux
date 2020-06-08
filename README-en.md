@@ -8,6 +8,9 @@ MQLinux ARM-Router Firmware for
 ### ChangeLog
 
 ```
+2020.06.08 1.2.2 Stable
+Please visit https://docs.mqrouter.com/changelog.html
+
 2020.04.24 1.2 Stable
 Update: Supporrt Nano Pi R2S
 Update: A lot bugfix & improve

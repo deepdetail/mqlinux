@@ -1,22 +1,26 @@
 ## MQLinux for ARM
 
-MQLinux ARM-Router固件
+MQLinux ARM-Router固件 by [Muddyboot@MoreQuick.net](http://wiki.mqrouter.com/doku.php)
 
 适用硬件：
+
+* [friendlyarm](https://www.friendlyarm.com/) Nano Pi R2S/R4S
+
+   ![r4s](http://wiki.mqrouter.com/lib/exe/fetch.php?w=600&tok=365354&media=irouter:arm_r2s_r4s.jpg)
 
 * [香蕉派](http://www.banana-pi.org) BPI-R1 及 BPI-R2
 
    ![IMG_3044](https://user-images.githubusercontent.com/16576843/54506419-50614a80-4977-11e9-9de0-3322c382bbfd.JPG)
    
-* [friendlyarm](https://www.friendlyarm.com/) Nano Pi R2S
-
-   ![D8DD43C3C7778F5EDAF36799F10AE55C](https://user-images.githubusercontent.com/16576843/80932067-3ccda900-8df0-11ea-9484-8ec7e0f01f39.png)
-
 ### 更新日志
 
+
 ```
+2020.12.05 V1.5.1 
+Update: 加入 Nano Pi R2S 支持（将img镜像写入TF卡，插卡即可启动）
+
 2020.06.08 V1.2.2 Stable
-更新日志请见 https://docs.mqrouter.com/changelog.html
+更新日志请见 http://wiki.mqrouter.com/doku.php?id=irouter:changelog
 
 2020.04.24 V1.2 Stable
 Update: 大量功能改进及Bug修复

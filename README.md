@@ -1,6 +1,6 @@
 ## MQLinux for ARM
 
-MQLinux ARM-Router固件 by [Muddyboot@MoreQuick.net](http://wiki.mqrouter.com/doku.php)
+[MQLinux ARM-Router](https://wiki.mqrouter.com/doku.php?id=irouter:arm) 固件 by Muddyboot of MoreQuick.Net Inc.
 
 适用硬件：
 
